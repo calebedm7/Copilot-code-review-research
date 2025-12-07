@@ -1,7 +1,7 @@
 #include "calculator.h"
 
 // Add two numbers - no validation
-int add(int a, int b) {
+int add(int a, int a) {
     return a + b;  // No overflow check
 }
 
