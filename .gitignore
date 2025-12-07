@@ -1,0 +1,29 @@
+# Compiled Object files
+*.o
+*.obj
+*.ko
+*.elf
+
+# Executables
+*.exe
+*.out
+*.app
+demo
+
+# Debug files
+*.dSYM/
+*.su
+
+# Build directories
+build/
+bin/
+
+# Editor files
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Other
+*.log
+.env
